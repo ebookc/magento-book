@@ -1,0 +1,59 @@
+{
+  "title"     : "Magento - Libro para desarrolladores",
+  "version"   : "0.0.1",
+  "author"    : 
+  {
+    "name"  : "Raül Pérez",
+    "email" : "raul@web4linux.org",
+    "url"   : "http://www.web4linux.org"
+  },
+  "chapters"  : 
+  [
+    {
+      "name"    : "cover",
+      "file"    : "./src/cover.markdown",
+      "title"   : "Portada"
+    },
+    {
+      "name"    : "copyright",
+      "file"    : "./src/copyright.markdown",
+      "title"   : "CopyRight"
+    },
+    {
+      "name"    : "credits",
+      "file"    : "./src/credits.markdown",
+      "title"   : "Créditos"
+    },
+    {
+      "name"    : "author",
+      "file"    : "./src/author.markdown",
+      "title"   : "Autor"
+    },
+    {
+      "name"    : "toc",
+      "file"    : "./src/toc.markdown",
+      "title"   : "Tabla de contenidos"
+    },
+    {
+      "name"    : "preface",
+      "file"    : "./src/preface.markdown",
+      "title"   : "Prefacio"
+    },
+    {
+      "name"    : "chapter1-installation",
+      "file"    : "./src/chapter1-installation.markdown",
+      "title"   : "Capítulo 1 - Instalación"
+    },
+    {
+      "name"    : "chapter2-developer-environment",
+      "file"    : "./src/chapter2-developer-environment.markdown",
+      "title"   : "Capítulo 2 - Entorno de desarrollo"
+    },
+    {
+      "name"    : "chapter3-introduction-module-development",
+      "file"    : "./src/chapter3-introduction-module-development.markdown",
+      "title"   : "Capítulo 3 - Introducción al desarrollo de módulos"
+    }
+  ],
+  "theme"     : "default"
+}
